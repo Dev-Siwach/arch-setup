@@ -7,3 +7,7 @@
   ~ Install i3-wm and lightdm(web-greeter with shikai theme)<br/>
 ## Step - 4
   ~ Install nvidia-drivers (https://github.com/korvahannu/arch-nvidia-drivers-installation-guide)
+## Step - 5
+  ~ Download wallpaper from this repo<br/>
+  ~ Install oh-my-zsh<br/>
+  ~ Install pywall and set it up for system wide theming
