@@ -6,4 +6,4 @@
 ## Step - 3<br/>
   ~ Install i3-wm and lightdm(web-greeter with shikai theme)<br/>
 ## Step - 4
-  Install nvidia-drivers
+  ~ Install nvidia-drivers (https://github.com/korvahannu/arch-nvidia-drivers-installation-guide)
