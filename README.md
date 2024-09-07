@@ -12,4 +12,6 @@
   ~ Install oh-my-zsh<br/>
   ~ Install pywall and set it up for system wide theming
 ## Step - 6
-  ~ to hide the title bar of windows reffer to https://www.reddit.com/r/i3wm/comments/znailj/is_there_a_way_to_remove_the_top_title_bar/
+  ~ to hide the title bar of windows reffer to https://www.reddit.com/r/i3wm/comments/znailj/is_there_a_way_to_remove_the_top_title_bar/<br/>
+  ~ to remove windows border reffer to https://i3wm.org/docs/userguide.html#default_border<br/>
+  ~ to add gaps reffer to https://i3wm.org/docs/userguide.html#gaps
