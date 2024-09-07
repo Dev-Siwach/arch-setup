@@ -12,6 +12,6 @@
   ~ Install oh-my-zsh<br/>
   ~ Install pywall and set it up for system wide theming
 ## Step - 6
-  ~ to hide the title bar of windows reffer to https://www.reddit.com/r/i3wm/comments/znailj/is_there_a_way_to_remove_the_top_title_bar/<br/>
-  ~ to remove windows border reffer to https://i3wm.org/docs/userguide.html#default_border<br/>
-  ~ to add gaps reffer to https://i3wm.org/docs/userguide.html#gaps
+  ~ to hide the title bar of windows reffer to https://www.reddit.com/r/i3wm/comments/znailj/is_there_a_way_to_remove_the_top_title_bar/ (my settings - font pango : Ubuntu Bold 0 for_window [class=".*"] title_format " ")<br/>
+  ~ to remove windows border reffer to https://i3wm.org/docs/userguide.html#default_border (my settings - default_border none default_floating_border none<br/>
+  ~ to add gaps reffer to https://i3wm.org/docs/userguide.html#gaps (my settings - gaps inner 10 gaps outer 20) <br/>
